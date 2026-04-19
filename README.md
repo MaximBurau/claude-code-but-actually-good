@@ -1,2 +1,2 @@
 # claude-code-but-actually-good
-Claude Code app but actually good 
+claude code app that doesnt make me crash out
